@@ -73,6 +73,11 @@ Organic: 52.36%
 Recyclable: 47.64%
 
 The pie chart helps you understand the balance of data between the two categories before training the model.
+![output 2](https://github.com/user-attachments/assets/cf5016fe-a663-47e6-b13b-49d6b0981faf)
+advancement in visualization
+![output1 1](https://github.com/user-attachments/assets/c7d83a3b-124b-48bc-8963-81a93eb77bea)
+
+
 
 ## Contributing
 
